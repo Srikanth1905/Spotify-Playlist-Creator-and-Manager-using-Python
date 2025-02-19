@@ -29,7 +29,7 @@ This Streamlit application allows users to generate and manage Spotify playlists
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your_username>/spotify-playlist-manager.git  # Replace with your repo URL
+git clone [https://github.com/](https://github.com/)Srikanth1905/Spotify-Playlist-Creator-and-Manager-using-Python.git  
 cd spotify-playlist-manager
 ````
 
@@ -50,7 +50,7 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4.  Create a `.env` file in the project directory and add your Spotify API credentials (see [Configuration](https://www.google.com/url?sa=E&source=gmail&q=#configuration)).
+4.  Create a `.env` file in the project directory and add your Spotify API credentials (see Configuration).
 
 ## Usage
 
