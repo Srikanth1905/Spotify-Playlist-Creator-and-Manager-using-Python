@@ -137,5 +137,5 @@ Contributions are welcome\! Please open an issue or submit a pull request.
 
 ## License
 
-[MIT License](https://www.google.com/url?sa=E&source=gmail&q=LICENSE)  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
