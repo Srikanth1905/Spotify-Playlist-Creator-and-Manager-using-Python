@@ -29,7 +29,7 @@ This Streamlit application allows users to generate and manage Spotify playlists
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/](https://github.com/)Srikanth1905/Spotify-Playlist-Creator-and-Manager-using-Python.git  
+git clone https://github.com/Srikanth1905/Spotify-Playlist-Creator-and-Manager-using-Python.git  
 cd spotify-playlist-manager
 ````
 
@@ -137,5 +137,5 @@ Contributions are welcome\! Please open an issue or submit a pull request.
 
 ## License
 
-[MIT License](https://www.google.com/url?sa=E&source=gmail&q=LICENSE)  (Add your license here)
+[MIT License](https://www.google.com/url?sa=E&source=gmail&q=LICENSE)  
 
